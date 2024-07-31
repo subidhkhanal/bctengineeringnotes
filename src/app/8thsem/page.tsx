@@ -10,6 +10,7 @@ export default function Index() {
   const allPosts = getAllPosts();
   console.log(allPosts);
 
+  // @ts-ignore
   const filteredPost = allPosts.filter((post) => post.tag.includes("8th Sem"));
 
   return (
