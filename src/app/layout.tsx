@@ -37,6 +37,10 @@ export default function RootLayout({
           sizes="32x32"
           href="/favicon/favicon.png"
         />
+        <meta
+          name="google-adsense-account"
+          content="ca-pub-2491951185312676"
+        ></meta>
         {/* <link
           rel="icon"
           type="image/png"
