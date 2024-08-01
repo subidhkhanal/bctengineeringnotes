@@ -1,3 +1,9 @@
+/** @format */
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/* .testing:hover {
+  color: rgb(11 53 201);
+} */
