@@ -3,7 +3,7 @@ title: "Big Data"
 excerpt: "Add content"
 coverImage: "/assets/blog/8thsem/big_data.jpg"
 tag: "8th Sem"
-date: "2020-03-16T05:35:07.322Z"
+date: "2021-03-08T05:35:07.322Z"
 author:
   name: JJ Kasper
   picture: "/assets/blog/authors/jj.jpeg"

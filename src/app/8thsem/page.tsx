@@ -4,7 +4,7 @@ import Container from "@/app/_components/container";
 import { Intro } from "@/app/_components/intro";
 import { MoreStories } from "@/app/_components/more-stories";
 import { getAllPosts } from "@/lib/api";
-import { Nav } from "../_components/nav";
+// import { Nav } from "../_components/nav";
 
 export default function Index() {
   const allPosts = getAllPosts();
@@ -17,7 +17,7 @@ export default function Index() {
     <main>
       <Container>
         <Intro />
-        <Nav />
+        {/* <Nav /> */}
         <MoreStories posts={filteredPost} />
       </Container>
     </main>
