@@ -1,3 +1,5 @@
+/** @format */
+
 import type { Config } from "tailwindcss";
 
 const config: Config = {
@@ -14,6 +16,7 @@ const config: Config = {
         "gradient-conic":
           "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
       },
+
       colors: {
         "accent-1": "#FAFAFA",
         "accent-2": "#EAEAEA",
