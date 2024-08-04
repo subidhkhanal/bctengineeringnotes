@@ -28,13 +28,13 @@ export default async function Post({ params }: Params) {
         {/* <Nav /> */}
         <section>
           <BreadCrumb />
-          <article className="mb-32">
-            <PostHeader
-              title={post.title}
+          <article className="mb-32 pt-6">
+            {/* <PostHeader
+              title={post.title}  
               coverImage={post.coverImage}
               date={post.date}
               author={post.author}
-            />
+            /> */}
             <PostBody content={content} />
           </article>
         </section>

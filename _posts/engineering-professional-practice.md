@@ -1,5 +1,5 @@
 ---
-title: "Big Data Technologies"
+title: "Engineering Professional Practice"
 excerpt: "Add content"
 coverImage: "/assets/blog/8thsem/big_data.jpg"
 tag: "8thsem"

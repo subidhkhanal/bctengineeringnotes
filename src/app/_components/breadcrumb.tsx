@@ -1,15 +1,27 @@
 /** @format */
-"use client";
-
 import Link from "next/link";
-import { useState } from "react";
+// import { useState } from "react";
+import { getAllPosts } from "@/lib/api";
 
 export function BreadCrumb() {
-  const [changeColor, setChangeColor] = useState("none");
+  // const [changeColor, setChangeColor] = useState("none");
 
+  const allPosts = getAllPosts();
+
+  // @ts-ignore
+  const filteredPost = allPosts.filter((post) => post.tag.includes("8thsem"));
+  // console.log(filteredPost);
   return (
     <div className="flex justify-start custom-font flex-1 max-w-4xl mx-auto border-b-[rgb(227,] border-b-[238)] border-solid border-b">
-      <Link
+      {filteredPost.map((post) => (
+        <Link
+          href={`/posts/${post.slug}`}
+          className="mr-6 font-medium text-sm h-full pt-[7px] pb-2.5 text-[rgb(60,66,87)] hover:text-[rgb(0,0,0)]"
+        >
+          {post.title}
+        </Link>
+      ))}
+      {/* <Link
         href="/8thsem"
         onClick={(e) => setChangeColor("1st sem")}
         className={`mr-6 font-medium text-sm h-full pt-[7px] pb-2.5 ${
@@ -45,7 +57,7 @@ export function BreadCrumb() {
       <h2
         className={`mr-6 font-medium text-sm h-full pt-[7px] pb-2.5 ${
           changeColor === "4th sem"
-            ? "text-[rgb(84,105,212)] border-b-2	 border-solid border-[#635bff]"
+            ? "text-[rgb(84,105,212)] border-b-2 border-solid border-[#635bff]"
             : "text-[rgb(60,66,87)] hover:text-[rgb(0,0,0)]"
         }`}
       >
@@ -63,7 +75,7 @@ export function BreadCrumb() {
         <Link href="/8thsem" onClick={(e) => setChangeColor("5th sem")}>
           Big Data Technologies
         </Link>
-      </h2>
+      </h2> */}
     </div>
   );
 }

@@ -2,7 +2,7 @@
 
 import Container from "@/app/_components/container";
 // import { Intro } from "@/app/_components/intro";
-import { MoreStories } from "@/app/_components/more-stories";
+// import { MoreStories } from "@/app/_components/more-stories";
 import { getAllPosts } from "@/lib/api";
 import { BreadCrumb } from "../_components/breadcrumb";
 // import { Nav } from "../_components/nav";
@@ -12,7 +12,7 @@ export default function Index() {
   // console.log(allPosts);
 
   // @ts-ignore
-  const filteredPost = allPosts.filter((post) => post.tag.includes("8th Sem"));
+  // const filteredPost = allPosts.filter((post) => post.tag.includes("8th Sem"));
 
   return (
     <main>
