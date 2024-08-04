@@ -1,3 +1,5 @@
+/** @format */
+
 "use client";
 
 import styles from "./switch.module.css";
@@ -33,7 +35,7 @@ export const NoFOUCScript = (storageKey: string) => {
     };
   };
 
-  const media = matchMedia(`(prefers-color-scheme: ${DARK})`);
+  const media = matchMedia(`(prefers-color-scheme: ${LIGHT})`);
 
   /** function to add remove dark class */
   window.updateDOM = () => {
@@ -61,7 +63,7 @@ const Switch = () => {
     () =>
       ((typeof localStorage !== "undefined" &&
         localStorage.getItem(STORAGE_KEY)) ??
-        "system") as ColorSchemePreference,
+        "system") as ColorSchemePreference
   );
 
   useEffect(() => {
