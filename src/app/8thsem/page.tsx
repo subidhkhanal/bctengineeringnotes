@@ -1,9 +1,10 @@
 /** @format */
 
 import Container from "@/app/_components/container";
-import { Intro } from "@/app/_components/intro";
+// import { Intro } from "@/app/_components/intro";
 import { MoreStories } from "@/app/_components/more-stories";
 import { getAllPosts } from "@/lib/api";
+import { BreadCrumb } from "../_components/breadcrumb";
 // import { Nav } from "../_components/nav";
 
 export default function Index() {
@@ -16,10 +17,11 @@ export default function Index() {
   return (
     <main>
       <Container>
-        <Intro />
+        {/* <Intro /> */}
         {/* <Nav /> */}
+        <BreadCrumb />
 
-        <MoreStories posts={filteredPost} />
+        {/* <MoreStories posts={filteredPost} /> */}
       </Container>
     </main>
   );

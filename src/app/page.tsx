@@ -15,7 +15,7 @@ export default function Index() {
   return (
     <main>
       <Container>
-        <Intro />
+        {/* <Intro /> */}
         {/* <Nav /> */}
         {/* <HeroPost
           title={heroPost.title}

@@ -24,7 +24,7 @@ export default async function Post({ params }: Params) {
   return (
     <main>
       <Container>
-        <Intro />
+        {/* <Intro /> */}
         {/* <Nav /> */}
         <section>
           <BreadCrumb />
