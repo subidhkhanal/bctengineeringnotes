@@ -8,7 +8,7 @@ import { getAllPosts } from "@/lib/api";
 
 export default function Index() {
   const allPosts = getAllPosts();
-  console.log(allPosts);
+  // console.log(allPosts);
 
   // @ts-ignore
   const filteredPost = allPosts.filter((post) => post.tag.includes("8th Sem"));
@@ -18,6 +18,7 @@ export default function Index() {
       <Container>
         <Intro />
         {/* <Nav /> */}
+
         <MoreStories posts={filteredPost} />
       </Container>
     </main>

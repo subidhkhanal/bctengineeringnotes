@@ -13,6 +13,8 @@ ogImage:
 
 <!-- @format -->
 
+## Tips & Tricks
+
 Total Days If Complete Newbie and Never Started, Don't Know Anything :- 2 Very Chill Days [0 Days Before Exam]
 Goal - Score Above 65/80 in the finals
 

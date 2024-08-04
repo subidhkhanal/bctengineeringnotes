@@ -9,7 +9,8 @@ import Container from "@/app/_components/container";
 import { PostBody } from "@/app/_components/post-body";
 import { PostHeader } from "@/app/_components/post-header";
 import { Intro } from "@/app/_components/intro";
-import { Nav } from "@/app/_components/nav";
+// import { Nav } from "@/app/_components/nav";
+import { BreadCrumb } from "@/app/_components/breadcrumb";
 
 export default async function Post({ params }: Params) {
   const post = getPostBySlug(params.slug);
@@ -25,15 +26,18 @@ export default async function Post({ params }: Params) {
       <Container>
         <Intro />
         {/* <Nav /> */}
-        <article className="mb-32">
-          <PostHeader
-            title={post.title}
-            coverImage={post.coverImage}
-            date={post.date}
-            author={post.author}
-          />
-          <PostBody content={content} />
-        </article>
+        <section>
+          <BreadCrumb />
+          <article className="mb-32">
+            <PostHeader
+              title={post.title}
+              coverImage={post.coverImage}
+              date={post.date}
+              author={post.author}
+            />
+            <PostBody content={content} />
+          </article>
+        </section>
       </Container>
     </main>
   );
@@ -52,7 +56,7 @@ export function generateMetadata({ params }: Params): Metadata {
     return notFound();
   }
 
-  const title = `${post.title} | Next.js Blog Example with ${CMS_NAME}`;
+  const title = `${post.title} | BCT Engineering Notes`;
 
   return {
     title,

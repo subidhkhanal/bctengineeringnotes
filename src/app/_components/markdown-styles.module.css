@@ -1,3 +1,5 @@
+/** @format */
+
 .markdown {
   @apply text-lg leading-relaxed;
 }
@@ -6,11 +8,14 @@
 .markdown ul,
 .markdown ol,
 .markdown blockquote {
-  @apply my-6;
+  @apply pt-3;
 }
 
+.markdown p {
+  @apply text-base text-[rgb(60,66,87)];
+}
 .markdown h2 {
-  @apply text-3xl mt-12 mb-4 leading-snug;
+  @apply text-[21px] font-bold leading-snug;
 }
 
 .markdown h3 {
