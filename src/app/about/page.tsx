@@ -72,6 +72,7 @@ const footerNavigation = {
     {
       name: "Facebook",
       href: "#",
+      // @ts-ignore
       icon: (props) => (
         <svg fill="currentColor" viewBox="0 0 24 24" {...props}>
           <path

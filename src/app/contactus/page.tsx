@@ -3,6 +3,7 @@
 "use client";
 
 import { useState } from "react";
+// @ts-ignore
 
 function classNames(...classes) {
   return classes.filter(Boolean).join(" ");
