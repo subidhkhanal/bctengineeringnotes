@@ -19,7 +19,9 @@ export function MoreStories({ posts }: Props) {
             title={post.title}
             coverImage={post.coverImage}
             slug={post.slug}
+            // @ts-ignore
             difficultyLevel={post.difficultyLevel}
+            // @ts-ignore
             readTime={post.readTime}
           />
         ))}

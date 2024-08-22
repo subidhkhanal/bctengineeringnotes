@@ -8,7 +8,6 @@ import markdownToHtml from "@/lib/markdownToHtml";
 import Container from "@/app/_components/container";
 import { PostBody } from "@/app/_components/post-body";
 import { PostHeader } from "@/app/_components/post-header";
-import { Intro } from "@/app/_components/intro";
 // import { Nav } from "@/app/_components/nav";
 import { BreadCrumb } from "@/app/_components/breadcrumb";
 
