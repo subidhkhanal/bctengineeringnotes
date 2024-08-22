@@ -1,23 +1,16 @@
 /** @format */
-
+"use client";
 import { HOME_OG_IMAGE_URL } from "@/lib/constants";
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import cn from "classnames";
 import { ThemeSwitcher } from "./_components/theme-switcher";
+import { ChakraProvider } from "@chakra-ui/react";
 
 import "./globals.css";
-import { Intro } from "./_components/intro";
+import Intro from "./_components/intro";
 
 const inter = Inter({ subsets: ["latin"] });
-
-export const metadata: Metadata = {
-  title: `BCT Engineering Notes`,
-  description: `Giving Engineering Students Their Life Back`,
-  openGraph: {
-    images: [HOME_OG_IMAGE_URL],
-  },
-};
 
 export default function RootLayout({
   children,
@@ -66,9 +59,12 @@ export default function RootLayout({
       <body
         className={cn(inter.className, "dark:bg-slate-900 dark:text-slate-400")}
       >
-        <ThemeSwitcher />
+        {/* <ThemeSwitcher /> */}
+
         <Intro />
-        <div className="min-h-screen">{children}</div>
+        <div className="min-h-screen">
+          <ChakraProvider>{children}</ChakraProvider>
+        </div>
       </body>
     </html>
   );

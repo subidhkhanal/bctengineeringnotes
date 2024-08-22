@@ -1,7 +1,9 @@
 /** @format */
+"use client";
 
 import { Post } from "@/interfaces/post";
 import { PostPreview } from "./post-preview";
+import { SimpleGrid } from "@chakra-ui/react";
 
 type Props = {
   posts: Post[];
@@ -10,19 +12,18 @@ type Props = {
 export function MoreStories({ posts }: Props) {
   return (
     <section>
-      <div className="grid grid-cols-1 md:grid-cols-2 md:gap-x-16 lg:gap-x-32 gap-y-20 md:gap-y-32 mb-32">
+      <SimpleGrid columns={{ base: 1, md: 4 }} spacing={5}>
         {posts.map((post) => (
           <PostPreview
             key={post.slug}
             title={post.title}
             coverImage={post.coverImage}
-            date={post.date}
-            author={post.author}
             slug={post.slug}
-            excerpt={post.excerpt}
+            difficultyLevel={post.difficultyLevel}
+            readTime={post.readTime}
           />
         ))}
-      </div>
+      </SimpleGrid>
     </section>
   );
 }

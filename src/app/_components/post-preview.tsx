@@ -1,43 +1,83 @@
 /** @format */
+"use client";
 
-import { type Author } from "@/interfaces/author";
 import Link from "next/link";
-import Avatar from "./avatar";
-import CoverImage from "./cover-image";
-import DateFormatter from "./date-formatter";
+import {
+  Heading,
+  useColorModeValue,
+  VStack,
+  Center,
+  Wrap,
+  Text,
+} from "@chakra-ui/react";
+import CircleIcon from "../../../public/assets/icons/CircleIcon";
 
 type Props = {
   title: string;
   coverImage: string;
-  date: string;
-  excerpt: string;
-  author: Author;
   slug: string;
+  difficultyLevel: string;
+  readTime: string;
 };
 
 export function PostPreview({
   title,
   coverImage,
-  date,
-  excerpt,
-  author,
   slug,
+  difficultyLevel,
+  readTime,
 }: Props) {
+  const shadow = useColorModeValue(
+    "lg",
+    "rgba(149, 157, 165, 0.2) 0px 8px 24px"
+  );
   return (
-    <div>
-      <div className="mb-5">
-        <CoverImage slug={slug} title={title} src={coverImage} />
-      </div>
-      <h3 className="text-3xl mb-3 leading-snug">
-        <Link href={`/posts/${slug}`} className="hover:underline">
-          {title}
+    <VStack
+      className="rounded-t-xl pb-5 cursor-pointer"
+      shadow={shadow}
+      h={"max-content"}
+      transition="all .25s ease"
+      _hover={{ transform: "scale(1.05)", color: "brand.50" }}
+    >
+      {/* Cover image */}
+      <Link href={`/posts/${slug}`} passHref tabIndex={-1}>
+        <img
+          className="object-cover	mx-auto rounded-t-md h-[170.88px] w-full"
+          src={coverImage}
+          alt="testing"
+        />
+      </Link>
+
+      {/* Title */}
+
+      <Center>
+        <Link href={`/posts/${slug}`} passHref tabIndex={-1}>
+          <Heading
+            size={"md"}
+            alignSelf={"flex-start"}
+            tabIndex={0}
+            _hover={{ color: "brand.50" }}
+          >
+            {title}
+          </Heading>
         </Link>
-      </h3>
-      <div className="text-lg mb-4">
-        <DateFormatter dateString={date} />
-      </div>
-      <p className="text-lg leading-relaxed mb-4">{excerpt}</p>
-      {/* <Avatar name={author.name} picture={author.picture} /> */}
-    </div>
+      </Center>
+      <Wrap textTransform={"uppercase"} color={"brand.100"} fontWeight={"bold"}>
+        <Center>
+          <CircleIcon boxSize={"2"} />
+        </Center>
+        <Text fontSize="xs" textTransform={"uppercase"}>
+          {difficultyLevel}
+        </Text>
+        <Center>
+          <CircleIcon boxSize={"2"} />
+        </Center>
+
+        {/* Read time */}
+        <Text fontSize="xs" textTransform={"uppercase"}>
+          {readTime}
+        </Text>
+      </Wrap>
+    </VStack>
   );
 }

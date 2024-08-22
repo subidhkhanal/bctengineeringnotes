@@ -27,7 +27,7 @@ export default async function Post({ params }: Params) {
         {/* <Intro /> */}
         {/* <Nav /> */}
         <section>
-          <BreadCrumb />
+          {/* <BreadCrumb /> */}
           <article className="mb-32 pt-6">
             {/* <PostHeader
               title={post.title}  

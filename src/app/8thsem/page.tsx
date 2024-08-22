@@ -2,14 +2,14 @@
 
 import Container from "@/app/_components/container";
 // import { Intro } from "@/app/_components/intro";
-// import { MoreStories } from "@/app/_components/more-stories";
+import { MoreStories } from "@/app/_components/more-stories";
 import { getAllPosts } from "@/lib/api";
-import { BreadCrumb } from "../_components/breadcrumb";
 // import { Nav } from "../_components/nav";
 
 export default function Index() {
   const allPosts = getAllPosts();
-  // console.log(allPosts);
+
+  const heroPost = allPosts;
 
   // @ts-ignore
   // const filteredPost = allPosts.filter((post) => post.tag.includes("8th Sem"));
@@ -19,9 +19,9 @@ export default function Index() {
       <Container>
         {/* <Intro /> */}
         {/* <Nav /> */}
-        <BreadCrumb />
+        {/* <BreadCrumb /> */}
 
-        {/* <MoreStories posts={filteredPost} /> */}
+        <MoreStories posts={heroPost} />
       </Container>
     </main>
   );

@@ -1,57 +1,29 @@
 ---
 title: "Simulation and Modeling"
-excerpt: "Add content"
-coverImage: "/assets/blog/8thsem/big_data.jpg"
+coverImage: "https://media.graphassets.com/Zo71YZ1CTey17F2cRTFI"
 tag: "8thsem"
-date: "2021-03-08T05:35:07.322Z"
-author:
-  name: JJ Kasper
-  picture: "/assets/blog/authors/jj.jpeg"
 ogImage:
-  url: "/assets/blog/8thsem/big_data.jpg"
+  url: "https://media.graphassets.com/Zo71YZ1CTey17F2cRTFI"
+difficultyLevel: "Very Very Easy"
+readTime: 2 Days
 ---
 
 <!-- @format -->
 
 ## Tips & Tricks
 
-Total Days If Complete Newbie and Never Started, Don't Know Anything :- 2 Very Chill Days [0 Days Before Exam]
-Goal - Score Above 65/80 in the finals
+Total Days If Complete Newbie and Never Started, Don't Know Anything:- 4.5 Days [1.5 Days Before Exam Month + 2.5 Days In Exam Months]
+Goal - Score More than 55/80 in Final Exam
 
-As these topics are very easy to understand conceptual topics and don't have a lot of detail in them I so finish YouTube Videos and finish all the chapters in the 2nd day.
+Start Numerical of Markov Chain First [.5 Days] [YouTube video available]
+Then the Numerical for random number tests [1 Day] [Looks hard until you start] [No YouTube Video Available] [Aim to finish Numerical Before the Exam month starts].
 
-Again See The Book in the third day with the YouTube Videos again, You need to see what to write in the Exam .
-Revision Will Be Finished If You Wake Up At 5 till 11:30 [3 times]
+The theory will take 1.5 days as there are some difficult topics, and you must remember some algorithms. 1 Day for revision and .5 for rest or error margin.
 
-This Is A Very Very Easy Subject To Study. This is the Easiest Subject Ever. It has around 7or 8 main question and 5 small questions which are very easy to understand and remember.
+Starting on the second Day in the morning will be enough if already finished Numerical. The revision will take one Day, and aim to begin revision at 3 Pm and at last 5 Pm and wake up at 5 Am.
 
-After watching Videos see the photos 1,2,3 and then open the book and know what to write about each topic in detail.
-A very good way to revise before exam would be to play the YouTube Videos at 1.25X-1.5X speed and then watch notes.
-Big Data Important Topics [Important]
-All Old Question Listed Chapter Wise Photo No 1, Photo No 2, Photo No 3 [Extremely Important]
+This is not a hard subject, but it is the hardest subject of the 8th semester. It contains four types of numerical. Markov Chain and three kinds of tests [Kolmogorov-Smirnov Test, Poker Test, And Chi-Square Test].
 
-Big Data Technologies Book [Extremely Recommended]
-Old Question Collection
-Big Data Course [This is not exam focused but is good to understand what Big Data Is]
-YouTube Videos [Extremely Recommended]
-Chapter 1 - Introduction to Big Data [Very Easy D.] [12 Marks]
+But the numerical is very lacking in this category, and there are good notes online as of writing this, but it is not good enough to solve all your doubts first. So see it repeatedly to be clear. There are no good resources other than what I have found. The year-wise collection of numerical is given below.
 
-Chapter 2 & 3 - Google File System and Map Framework [Related With Each Other] [Very Easy D.][13 Marks + 18 Marks]
-
-Chapter 4, 5 & 6 - Searching and Indexing Big Data and Case Study Hadoop [Most No Of Topics] [Very Easy D.] [11 Marks + 13 Marks + 13 Marks]
-
-Slides [The Most Interested Friend I Have Ever seen]
-Chapter 1 - Introduction to Big Data
-Chapter 2 - Google File System
-Chapter 3 - Map Framework
-Chapter 4 - NoSQL
-Chapter 5 + Elastic search
-Chapter 6 - Case Study Hadoop
-Chapters Hours Marks Distribution\*
-1 7 12
-2 7 13
-3 10 18
-4 6 11
-5 7 13
-6 8 13
-Total 45 80
+The Only Way To Revise Is With Notes No Videos Here My Dear Friend
