@@ -1,43 +1,64 @@
 ---
-title: "Big Data Technologies"
-coverImage: "https://media.graphassets.com/V2n1JnhLT68tmXC0NHvQ"
-tag: "8thsem"
+title: "Applied Mechanics"
+coverImage: ""
+tag: "1stsem"
 ogImage:
-  url: "https://media.graphassets.com/V2n1JnhLT68tmXC0NHvQ"
-difficultyLevel: "Very Very Easy"
-readTime: 2 Days
+  url: ""
+difficultyLevel: "Very Hard D. Get Worried from the start"
+readTime: "6 Days"
 ---
 
 <!-- @format -->
 
-## Tips & Tricks
+Total Days If Complete Newbie and Never Started, Don't Know Anything :- 10 days[7.5 Days Before Exam Month+ 2.5 Days of exam month]
+Goal - Score Above 45 /80 in the finals [Aim high if difficult question comes you can pass]
 
-Total Days If Complete Newbie and Never Started, Don't Know Anything :- 2 Very Chill Days [0 Days Before Exam]
-Goal - Score Above 65/80 in the finals
+The subject is 88% Numerical .This subject be finished for about 45-50 marks before exam month. There are limited theory [12 % ] don't expect to pass by studying just theory. It's impossible.
 
-As these topics are very easy to understand conceptual topics and don't have a lot of detail in them I so finish YouTube Videos and finish all the chapters in the 2nd day.
+It will take you 1 and half day after sitting down to study if you have never studied the subject before.
 
-Again See The Book in the third day with the YouTube Videos again, You need to see what to write in the Exam .
-Revision Will Be Finished If You Wake Up At 5 till 11:30 [3 times]
+Chapter 1 + Theory from all chapters[0.5 Days][Finish Thoroughly Before Exam Month]
+Chapter 2 + Chapter 3[2 Days][Finish In Detail Before Exam Month]
+Chapter 4[1 day][Finish In Detail Before Exam Month]
+Chapter 5[0.5 day][Finish Thoroughly Before Exam Month]
+Chapter 6 + Chapter 7[2.5 Days] [Finish In Detail Before Exam Month][Both of these chapter are related and two days for chapter 6 & half a day for chapter 7]
+Chapter 8 & 9[1 day][Finish Thoroughly Before Exam Month]
+At Exam Month
+Chapter 1,6,7 [1st Day Evening + 2nd Day Afternoon][Easy + Hard + Hard]
+Chapter 8,9 [2nd Day Afternoon + 3rd Day Morning][Medium + Medium]
+Chapter 4 [3rd Day Morning + 3rd Day Evening][Hard]
+Chapter 2,3,5 [3rd Day Evening + 10:00 am OF Exam Day] [Medium + Medium+ Easy]
+To guarantee to pass, starting at the exam month is not a sure way. The only way to make sure you pass is to complete chapter 4,6,7,8&9 before the exam month. The chapters with most marks are hard and you always run into the probability that from the chapters you have studied hard questions or unexpected question come.
+Watch The YouTube Videos First & Then go to the notes as it will help you to get a overview of how to solve.
 
-This Is A Very Very Easy Subject To Study. This is the Easiest Subject Ever. It has around 7or 8 main question and 5 small questions which are very easy to understand and remember.
+Syllabus
+Old Question Collection
+Chapter 4 -Centre and Moment of Inertia
+Chapter 8 - Kinematics of Particles
+Centre and Moment of Interia
+Moment of Interia
+Dynamic Portion
+Dynamic Numerical Problem
 
-After watching Videos see the photos 1,2,3 and then open the book and know what to write about each topic in detail.
-A very good way to revise before exam would be to play the YouTube Videos at 1.25X-1.5X speed and then watch notes.
+Handwritten Notes:
+1 - Basic Concept
+2 - Moment and Couple
+3 - Friction
+4 - Stress and Strain
+5 - Beam and Trusses
+Book Solution:
+4 - Friction
+5 - Centroid
+6 - Moment
 
-## Notes
-
-[Big Data Important Topics](https://drive.google.com/file/d/1uj2XRHquKSFjNwJJsfX3WLjPHsFdlfmW/view) [Important]
-All Old Question Listed Chapter Wise [Photo No 1](https://drive.google.com/file/d/1HHpbeusPbExFBqcH0jlZS5U1A8QKzaq6/view), [Photo No 2](https://drive.google.com/file/d/1Kh11kvs_ssYRvQ3e0cLucBXrymGs8OB_/view), [Photo No 3](https://drive.google.com/file/d/1tgUfRogydN7_kJNiFuKbBTCfYLbkTQT3/view) [Extremely Important]
-
-[Big Data Technologies Book](https://drive.google.com/file/d/1uj2XRHquKSFjNwJJsfX3WLjPHsFdlfmW/view) [Extremely Recommended]
-[Old Question Collection](https://drive.google.com/file/d/1kwvWBGMwIvVUlGeapinb5991zbTI7l50/view)
-[Big Data Course](https://www.youtube.com/playlist?list=PLPIwNooIb9vi4f8tVkzLnr1tll6Pubbqh) [This is not exam focused but is good to understand what Big Data Is]
-
-## YouTube Videos [Extremely Recommended]
-
-Chapter 1 - [Introduction to Big Data](https://www.youtube.com/playlist?list=PLAXUYU7PbJhhMeXgPvny8ivAcIeeowPkj) [Very Easy D.] [12 Marks]
-
-Chapter 2 & 3 - [Google File System and Map Framework](https://www.youtube.com/playlist?list=PLAXUYU7PbJhjoqdE-SGbBIl2jU-XBtZpP) [Related With Each Other] [Very Easy D.][13 Marks + 18 Marks]
-
-Chapter 4, 5 & 6 - [Searching and Indexing Big Data and Case Study Hadoop](https://www.youtube.com/playlist?list=PLAXUYU7PbJhiKA3sifxNrb4Lixt8ECeNK) [Most No Of Topics] [Very Easy D.] [11 Marks + 13 Marks + 13 Marks]
+Tutorial:
+Tutorial - Question #1,Question #2
+Tutorial 1
+Youtube:
+Chapter 1 - Introduction
+Chapter 2 - Basic Concept of Static and Static Equilibrium
+Chapter 4 - Centre of Gravity, Centroid& Moment of Inertia
+Chapter 5 - Friction
+Chapter 6 - Analysis of Beam & Frame
+Chapter 7 - Analysis of Truss
+Chapter 8 - Kinematics of Particle

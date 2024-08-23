@@ -1,43 +1,45 @@
 ---
-title: "Big Data Technologies"
-coverImage: "https://media.graphassets.com/V2n1JnhLT68tmXC0NHvQ"
-tag: "8thsem"
+title: "Computer Graphics"
+coverImage: "https://media.graphassets.com/ZguofRgSSSkrbEmgQXVv"
+tag: "5thsem"
 ogImage:
-  url: "https://media.graphassets.com/V2n1JnhLT68tmXC0NHvQ"
-difficultyLevel: "Very Very Easy"
-readTime: 2 Days
+  url: "https://media.graphassets.com/ZguofRgSSSkrbEmgQXVv"
+difficultyLevel: "Hard"
+readTime: "4.5 Days"
 ---
 
 <!-- @format -->
 
-## Tips & Tricks
+Total Days If complete Newbie and Never Started, Don't Know Anything :- \_ Days
 
-Total Days If Complete Newbie and Never Started, Don't Know Anything :- 2 Very Chill Days [0 Days Before Exam]
-Goal - Score Above 65/80 in the finals
+If You have Never Started Reading Computer Graphics it will take you at Normal 4 days to understand the subject and its individual topics. It will take you 1 day for revision and aim to revise the subject 3 times before exam.
 
-As these topics are very easy to understand conceptual topics and don't have a lot of detail in them I so finish YouTube Videos and finish all the chapters in the 2nd day.
+There are great introductory videos in Chapter 1 [.5 Days][Start here] [Gives a lot of content of what you are studying].
+Aim to finish Chapter 2 and Chapter 3 first [1 Day].
+Then to finish Chapter 4 and Chapter 5 [1 Day].
+Then proceed to 6 ,7,8. [1 Day].
+Read Chapter 9 at last.
 
-Again See The Book in the third day with the YouTube Videos again, You need to see what to write in the Exam .
-Revision Will Be Finished If You Wake Up At 5 till 11:30 [3 times]
+Revision of individual topics will take 1 day.
 
-This Is A Very Very Easy Subject To Study. This is the Easiest Subject Ever. It has around 7or 8 main question and 5 small questions which are very easy to understand and remember.
+As You Will Be Tired and Could Easily be distracted put .5 days for Error Adjustment.
 
-After watching Videos see the photos 1,2,3 and then open the book and know what to write about each topic in detail.
-A very good way to revise before exam would be to play the YouTube Videos at 1.25X-1.5X speed and then watch notes.
+The Correct Way To Study Is First You See All The Topics name generally and what is written in it for 5 minutes that you are familiar with the topics then proceed to the YouTube Videos Of that chapter and then watch all the videos and after you understand the topic deeply proceed to read from the book .
 
-## Notes
+On material to study I would suggest you to Buy A system Inception Book as for the past two exam question are very hard and as there are numerical and subject is in the hard category, it will hep you pass well.
 
-[Big Data Important Topics](https://drive.google.com/file/d/1uj2XRHquKSFjNwJJsfX3WLjPHsFdlfmW/view) [Important]
-All Old Question Listed Chapter Wise [Photo No 1](https://drive.google.com/file/d/1HHpbeusPbExFBqcH0jlZS5U1A8QKzaq6/view), [Photo No 2](https://drive.google.com/file/d/1Kh11kvs_ssYRvQ3e0cLucBXrymGs8OB_/view), [Photo No 3](https://drive.google.com/file/d/1tgUfRogydN7_kJNiFuKbBTCfYLbkTQT3/view) [Extremely Important]
+Computer Graphics Numerical Solution - Numerical Question
 
-[Big Data Technologies Book](https://drive.google.com/file/d/1uj2XRHquKSFjNwJJsfX3WLjPHsFdlfmW/view) [Extremely Recommended]
-[Old Question Collection](https://drive.google.com/file/d/1kwvWBGMwIvVUlGeapinb5991zbTI7l50/view)
-[Big Data Course](https://www.youtube.com/playlist?list=PLPIwNooIb9vi4f8tVkzLnr1tll6Pubbqh) [This is not exam focused but is good to understand what Big Data Is]
+All Chapter Important Topics And Its Easy To Remember Note - Easy And Important Note [Extremely Recommended]
+YouTube Playlists:
+Chapter 1: Introduction and Application [4 Marks] [Easy D.]
+Chapter 2: Scan Conversion [10 Marks]
+Chapter 3: Two-Dimensional Transformations [Mine] [[10 Marks]]
+Chapter 4: Three-Dimensional Transformation [10 Marks]
+Chapter 5: Curve Modeling [8 Marks]
+Chapter 6&7: Surface Modelling & Visible Surface Determination [Mine] [10 Marks]
+Chapter 8: Illumination and Surface Rendering Method [14 Marks]
 
-## YouTube Videos [Extremely Recommended]
-
-Chapter 1 - [Introduction to Big Data](https://www.youtube.com/playlist?list=PLAXUYU7PbJhhMeXgPvny8ivAcIeeowPkj) [Very Easy D.] [12 Marks]
-
-Chapter 2 & 3 - [Google File System and Map Framework](https://www.youtube.com/playlist?list=PLAXUYU7PbJhjoqdE-SGbBIl2jU-XBtZpP) [Related With Each Other] [Very Easy D.][13 Marks + 18 Marks]
-
-Chapter 4, 5 & 6 - [Searching and Indexing Big Data and Case Study Hadoop](https://www.youtube.com/playlist?list=PLAXUYU7PbJhiKA3sifxNrb4Lixt8ECeNK) [Most No Of Topics] [Very Easy D.] [11 Marks + 13 Marks + 13 Marks]
+Lab
+For Your weekly Lab
+Lab 1 To 6

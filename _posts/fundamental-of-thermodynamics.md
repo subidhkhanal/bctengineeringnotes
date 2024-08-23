@@ -5,7 +5,7 @@ tag: "2ndsem"
 ogImage:
   url: "https://media.graphassets.com/ujtEfvSbRA6nRYV5EhSo"
 difficultyLevel: "Very Very Hard"
-readTime: 7 Days
+readTime: "7 Days"
 ---
 
 <!-- @format -->

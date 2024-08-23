@@ -1,11 +1,11 @@
 ---
-title: "Big Data Technologies"
-coverImage: "https://media.graphassets.com/V2n1JnhLT68tmXC0NHvQ"
-tag: "8thsem"
+title: "Microprocessor"
+coverImage: "https://media.graphassets.com/MGNP3HR4QmOvVFqRDlmj"
+tag: "4thsem"
 ogImage:
-  url: "https://media.graphassets.com/V2n1JnhLT68tmXC0NHvQ"
-difficultyLevel: "Very Very Easy"
-readTime: 2 Days
+  url: "https://media.graphassets.com/MGNP3HR4QmOvVFqRDlmj"
+difficultyLevel: "Very Very Hard"
+readTime: "10 Days"
 ---
 
 <!-- @format -->

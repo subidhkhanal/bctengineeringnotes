@@ -1,43 +1,51 @@
 ---
-title: "Big Data Technologies"
-coverImage: "https://media.graphassets.com/V2n1JnhLT68tmXC0NHvQ"
-tag: "8thsem"
+title: "Engineering Physics"
+coverImage: ""
+tag: "1stsem"
 ogImage:
-  url: "https://media.graphassets.com/V2n1JnhLT68tmXC0NHvQ"
-difficultyLevel: "Very Very Easy"
-readTime: 2 Days
+  url: ""
+difficultyLevel: "Very Very Hard"
+readTime: "7 Days Minimum"
 ---
 
 <!-- @format -->
 
-## Tips & Tricks
+This is Not A Subject To Start During Exam Time or Even In Assessment, Finish It Before Assessment
+and use Assessment For Revision.
 
-Total Days If Complete Newbie and Never Started, Don't Know Anything :- 2 Very Chill Days [0 Days Before Exam]
-Goal - Score Above 65/80 in the finals
+Total Days If complete Newbie and Never Started, Don't Know Anything - 7 Days
 
-As these topics are very easy to understand conceptual topics and don't have a lot of detail in them I so finish YouTube Videos and finish all the chapters in the 2nd day.
+If You have Never Started Reading Physics it will take you at Normal 7 days to understand the subject and its individual topics. It will take you 2 days for revision and aim to revise the subject 3 times before exam.
 
-Again See The Book in the third day with the YouTube Videos again, You need to see what to write in the Exam .
-Revision Will Be Finished If You Wake Up At 5 till 11:30 [3 times]
+First Watch The YouTube Videos for concepts, Underlying Logic and background and only then see The List Of Important Theory Topics then after proceed to Notes. Directly Starting At Notes Is A Mistake that will cost you time and energy and even maybe Exams.
 
-This Is A Very Very Easy Subject To Study. This is the Easiest Subject Ever. It has around 7or 8 main question and 5 small questions which are very easy to understand and remember.
+I would recommend you strongly Buy System Inception Physics Solution In Addition To The Book That College Provides because If There is Numerical Solutions and Theory Are Written So It Is Easy to Remember to give Exams. I would say don't buy The G.L Book House Book and another book called Refresher Manual On Engineering because they are shit worth less than Dog Shit.
+If you have problems with Numerical there are Excellent Materials On Pulchowk Stationary Go and Look at Them and If Interested Buy Them.
 
-After watching Videos see the photos 1,2,3 and then open the book and know what to write about each topic in detail.
-A very good way to revise before exam would be to play the YouTube Videos at 1.25X-1.5X speed and then watch notes.
+Syllabus
+List of Important Theory Topics
+Old Question Collection
 
-## Notes
+Handwritten All Chapter Notes
 
-[Big Data Important Topics](https://drive.google.com/file/d/1uj2XRHquKSFjNwJJsfX3WLjPHsFdlfmW/view) [Important]
-All Old Question Listed Chapter Wise [Photo No 1](https://drive.google.com/file/d/1HHpbeusPbExFBqcH0jlZS5U1A8QKzaq6/view), [Photo No 2](https://drive.google.com/file/d/1Kh11kvs_ssYRvQ3e0cLucBXrymGs8OB_/view), [Photo No 3](https://drive.google.com/file/d/1tgUfRogydN7_kJNiFuKbBTCfYLbkTQT3/view) [Extremely Important]
+Old Question:
+Old Question Collection
+Old Question Solution Set
 
-[Big Data Technologies Book](https://drive.google.com/file/d/1uj2XRHquKSFjNwJJsfX3WLjPHsFdlfmW/view) [Extremely Recommended]
-[Old Question Collection](https://drive.google.com/file/d/1kwvWBGMwIvVUlGeapinb5991zbTI7l50/view)
-[Big Data Course](https://www.youtube.com/playlist?list=PLPIwNooIb9vi4f8tVkzLnr1tll6Pubbqh) [This is not exam focused but is good to understand what Big Data Is]
+YouTube [Extremely Recommended]
+Chapter Arranged According To System Inception Book & Mapped to IOE Syllabus
 
-## YouTube Videos [Extremely Recommended]
-
-Chapter 1 - [Introduction to Big Data](https://www.youtube.com/playlist?list=PLAXUYU7PbJhhMeXgPvny8ivAcIeeowPkj) [Very Easy D.] [12 Marks]
-
-Chapter 2 & 3 - [Google File System and Map Framework](https://www.youtube.com/playlist?list=PLAXUYU7PbJhjoqdE-SGbBIl2jU-XBtZpP) [Related With Each Other] [Very Easy D.][13 Marks + 18 Marks]
-
-Chapter 4, 5 & 6 - [Searching and Indexing Big Data and Case Study Hadoop](https://www.youtube.com/playlist?list=PLAXUYU7PbJhiKA3sifxNrb4Lixt8ECeNK) [Most No Of Topics] [Very Easy D.] [11 Marks + 13 Marks + 13 Marks]
+Chapter 1 - Oscillation | Chapter 1  
+Chapter 2 - LC Oscillation | Chapter 1 [10 Marks]
+Chapter 4 - Acoustics | Chapter 3 [3 Marks]  
+Chapter 5 - Lenses | Chapter 4 [5 Marks]  
+Chapter 6 & 7 & 13 - Laser & Fiber Optics & Direct Current | Chapter 5 [5 Marks]
+Chapter 8 - Interference | Chapter 6
+Chapter 9 - Diffraction | Chapter 6
+Chapter 10 - Polarization | Chapter 6 [15 Marks]
+Chapter 11 - Electric Field And Potential
+Chapter 12 - Capacitor
+Chapter 14 - Electromagnetic Field
+Chapter 15 - Electromagnetic Inductance
+Chapter 16 - Electromagnetic Waves
+Chapter 17 - Matter wave | Chapter 11 [5 Marks]

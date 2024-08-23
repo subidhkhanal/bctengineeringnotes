@@ -12,7 +12,7 @@ export default function Index() {
   const heroPost = allPosts;
 
   // @ts-ignore
-  const filteredPost = allPosts.filter((post) => post.tag.includes("1st Sem"));
+  const filteredPost = allPosts.filter((post) => post.tag.includes("1stsem"));
 
   return (
     <main>

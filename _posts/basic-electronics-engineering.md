@@ -5,7 +5,7 @@ tag: "2ndsem"
 ogImage:
   url: ""
 difficultyLevel: "Easy"
-readTime: 3.5 Days
+readTime: "3.5 Days"
 ---
 
 <!-- @format -->

@@ -1,43 +1,72 @@
 ---
-title: "Big Data Technologies"
-coverImage: "https://media.graphassets.com/V2n1JnhLT68tmXC0NHvQ"
-tag: "8thsem"
+title: "Computer Networks and Security"
+coverImage: "https://media.graphassets.com/E7eRbITYT6CGxNVTIPtx"
+tag: "7thsem"
 ogImage:
-  url: "https://media.graphassets.com/V2n1JnhLT68tmXC0NHvQ"
-difficultyLevel: "Very Very Easy"
-readTime: 2 Days
+  url: "https://media.graphassets.com/E7eRbITYT6CGxNVTIPtx"
+difficultyLevel: "Medium"
+readTime: "6 Days"
 ---
 
 <!-- @format -->
 
-## Tips & Tricks
+Total Days If Complete Newbie and Never Started, Don't Know Anything :- 6 Days. [3.5 days before exam month and 2.5 days of exam month]
+Goal - Score More than 60/80 Marks in final exam
+Chapter 4 Numerical + Chapter 8 Numerical [1 Day] [Finish Thoroughly Before Exam Month]
+Chapter 1,5,8 [1.5 Day] [Finish Before Exam Month] [Finish Them and remember the Header(Ch. 5) And Algorithm(Ch. 8) ]
+Chapter 2,3,4,6,7 [Just Watch The YouTube Videos Thoroughly No Worries] [1 Days]
+At Exam Month
+Chapter 1,4 [1st Day Evening + 2nd Day Morning]
+Chapter 2,3,5 [2nd Day] [Easy + Easy + Hard]
+Chapter 6,7,8 [3rd Day] [Easy + Easy + Hard]
 
-Total Days If Complete Newbie and Never Started, Don't Know Anything :- 2 Very Chill Days [0 Days Before Exam]
-Goal - Score Above 65/80 in the finals
+To guarantee to pass, starting at the exam month is not a sure way like other subjects. The chapters with most marks are hard and you always run into the probability that from the chapters you have studied hard questions or unexpected question come.
 
-As these topics are very easy to understand conceptual topics and don't have a lot of detail in them I so finish YouTube Videos and finish all the chapters in the 2nd day.
+Concerning the theory the notes are enough and also for the Numerical of chapter 8 can be easily understood from the note. Chapter 4 Numerical will take little time and be sure to see converting IP to binary and if you look at 3 or 4 questions the numerical will be clear to you. For Chapter 4 Numerical or note both the Anku Jaiswal Note or Old Question Solution Should be fine.
+The Way To Read Is With YouTube Videos and Revise is with Chapter wise Old Question Solution and list of Important Topics and YouTube Videos at 1.25X Speed
 
-Again See The Book in the third day with the YouTube Videos again, You need to see what to write in the Exam .
-Revision Will Be Finished If You Wake Up At 5 till 11:30 [3 times]
+Old Question Solution [Extremely Recommended]
 
-This Is A Very Very Easy Subject To Study. This is the Easiest Subject Ever. It has around 7or 8 main question and 5 small questions which are very easy to understand and remember.
+Old Question Set
+Old question solution Set wise Solution
 
-After watching Videos see the photos 1,2,3 and then open the book and know what to write about each topic in detail.
-A very good way to revise before exam would be to play the YouTube Videos at 1.25X-1.5X speed and then watch notes.
+List of Important Question[Recommended]
+Important topics
+Anku Jaiswal Pulchowk Notes (Best Notes In The Market)
 
-## Notes
+Chapter Wise with number of times a question was asked and the marks itself
+Chapter 1 - Introduction to Computer Network
+Chapter 2 - Physical Layer
+Chapter 3 - Data Link Layer
+Chapter 4 - Network Layer [Numerical]
+Chapter 5 - Transport Layer
+Chapter 6 - Application Layer
+Chapter 7 - Introduction to IPV6
+Chapter 8 - Network Security [Numerical] [Refer to System Inception Book]
+YouTube Videos [Extremely Recommended] [We have got you covered here]
+Chapter 1 - Introduction to Computer Network [8 Marks] [Medium D.] [With Background to Increase Your Interest and Perspective ]
 
-[Big Data Important Topics](https://drive.google.com/file/d/1uj2XRHquKSFjNwJJsfX3WLjPHsFdlfmW/view) [Important]
-All Old Question Listed Chapter Wise [Photo No 1](https://drive.google.com/file/d/1HHpbeusPbExFBqcH0jlZS5U1A8QKzaq6/view), [Photo No 2](https://drive.google.com/file/d/1Kh11kvs_ssYRvQ3e0cLucBXrymGs8OB_/view), [Photo No 3](https://drive.google.com/file/d/1tgUfRogydN7_kJNiFuKbBTCfYLbkTQT3/view) [Extremely Important]
+Chapter 2 - Physical Layer [8 Marks] [Easy D.]
 
-[Big Data Technologies Book](https://drive.google.com/file/d/1uj2XRHquKSFjNwJJsfX3WLjPHsFdlfmW/view) [Extremely Recommended]
-[Old Question Collection](https://drive.google.com/file/d/1kwvWBGMwIvVUlGeapinb5991zbTI7l50/view)
-[Big Data Course](https://www.youtube.com/playlist?list=PLPIwNooIb9vi4f8tVkzLnr1tll6Pubbqh) [This is not exam focused but is good to understand what Big Data Is]
+Chapter 3 - Data Link Layer [8 Marks] [Medium D.]
 
-## YouTube Videos [Extremely Recommended]
+Chapter 4 - Network Layer [16 Marks] [Hard D.] [Numerical In Old Question Solution]
 
-Chapter 1 - [Introduction to Big Data](https://www.youtube.com/playlist?list=PLAXUYU7PbJhhMeXgPvny8ivAcIeeowPkj) [Very Easy D.] [12 Marks]
+Chapter 5 - Transport Layer [8 Marks] [Hard D.]
 
-Chapter 2 & 3 - [Google File System and Map Framework](https://www.youtube.com/playlist?list=PLAXUYU7PbJhjoqdE-SGbBIl2jU-XBtZpP) [Related With Each Other] [Very Easy D.][13 Marks + 18 Marks]
+Chapter 6 - Application Layer [8 Marks] [Easy D.]
 
-Chapter 4, 5 & 6 - [Searching and Indexing Big Data and Case Study Hadoop](https://www.youtube.com/playlist?list=PLAXUYU7PbJhiKA3sifxNrb4Lixt8ECeNK) [Most No Of Topics] [Very Easy D.] [11 Marks + 13 Marks + 13 Marks]
+Chapter 7 - Introduction to IPV6 [8 Marks] [Easy D.]
+
+Chapter 8 - Network Security [16 Marks] [Hard D.] [Numerical Covered][Watch Khan Academy For In depth Understanding]
+
+https://www.khanacademy.org/computing/computer-science/cryptography [If You Want To Understand the history and inside mechanics of Security]
+Chapter Wise Notes [Good Notes Consult If Confused]
+Chapter 1 - Introduction to Computer Network
+Chapter 2 (Part 1) + Chapter 2(Part 2) - Physical Layer
+Chapter 3 - Data Link Layer
+Chapter 4 - Network Layer
+Chapter 5 - Transport Layer
+Chapter 6 - Application Layer
+Chapter 7 - Introduction to IPV6
+Chapter 8 - Network Security

@@ -1,43 +1,38 @@
 ---
-title: "Big Data Technologies"
-coverImage: "https://media.graphassets.com/V2n1JnhLT68tmXC0NHvQ"
-tag: "8thsem"
+title: "Biomedical Instrumentation"
+coverImage: ""
+tag: "7thsem"
 ogImage:
-  url: "https://media.graphassets.com/V2n1JnhLT68tmXC0NHvQ"
-difficultyLevel: "Very Very Easy"
-readTime: 2 Days
+  url: ""
+difficultyLevel: "Very Easy"
+readTime: "3.5 Days"
 ---
 
 <!-- @format -->
 
-## Tips & Tricks
+Total Days If Complete Newbie and Never Started, Don't Know Anything :- 3.5 Days. [1 day before exam month and 2.5 days of exam month]  
+Goal - Score More than 65/80 Marks in final exam.
 
-Total Days If Complete Newbie and Never Started, Don't Know Anything :- 2 Very Chill Days [0 Days Before Exam]
-Goal - Score Above 65/80 in the finals
+Before Exam watch the YouTube Videos [Extremely Easy] [1 Day]
+Again watch all the YouTube Videos [1st Day Evening + 2nd Day until 3 O Clock] Then open the Pulchowk note and start remembering things you need to remember and when confused watch the YouTube videos. [Chill Revision]
 
-As these topics are very easy to understand conceptual topics and don't have a lot of detail in them I so finish YouTube Videos and finish all the chapters in the 2nd day.
+The problem is that the words of the note doesn't exactly match with the YouTube Videos and some topics are explained in a difficult way in the notes.
 
-Again See The Book in the third day with the YouTube Videos again, You need to see what to write in the Exam .
-Revision Will Be Finished If You Wake Up At 5 till 11:30 [3 times]
+The subject is super easy but the problem in trying to achieve more than 65 is that all the topics listed in the syllabus is important.
 
-This Is A Very Very Easy Subject To Study. This is the Easiest Subject Ever. It has around 7or 8 main question and 5 small questions which are very easy to understand and remember.
+There is no use in trying to make a list of Important Topics The Only Notes Available are in the book of the college but as there is only one or two teachers [Most Probably One] in the Entire IOE his notes are found in Pulchowk college stationary so you can go and buy it from there. But keep in mind it doesn't contain the last chapter so you should find it from somewhere.
 
-After watching Videos see the photos 1,2,3 and then open the book and know what to write about each topic in detail.
-A very good way to revise before exam would be to play the YouTube Videos at 1.25X-1.5X speed and then watch notes.
+There is no notes available Online and the only old question is in the IOE Syllabus app but as already mentioned above it is of no use as everything is important.
 
-## Notes
+Syllabus [Marks Of Individual Chapter Also Given] [Extremely Recommended]
+Buy Notes From Pulchowk Stationary
 
-[Big Data Important Topics](https://drive.google.com/file/d/1uj2XRHquKSFjNwJJsfX3WLjPHsFdlfmW/view) [Important]
-All Old Question Listed Chapter Wise [Photo No 1](https://drive.google.com/file/d/1HHpbeusPbExFBqcH0jlZS5U1A8QKzaq6/view), [Photo No 2](https://drive.google.com/file/d/1Kh11kvs_ssYRvQ3e0cLucBXrymGs8OB_/view), [Photo No 3](https://drive.google.com/file/d/1tgUfRogydN7_kJNiFuKbBTCfYLbkTQT3/view) [Extremely Important]
+The Way To read is through YouTube Videos and to remember is through the notes combined with YouTube Videos.
+Old Question of 2075 Chaitra
 
-[Big Data Technologies Book](https://drive.google.com/file/d/1uj2XRHquKSFjNwJJsfX3WLjPHsFdlfmW/view) [Extremely Recommended]
-[Old Question Collection](https://drive.google.com/file/d/1kwvWBGMwIvVUlGeapinb5991zbTI7l50/view)
-[Big Data Course](https://www.youtube.com/playlist?list=PLPIwNooIb9vi4f8tVkzLnr1tll6Pubbqh) [This is not exam focused but is good to understand what Big Data Is]
-
-## YouTube Videos [Extremely Recommended]
-
-Chapter 1 - [Introduction to Big Data](https://www.youtube.com/playlist?list=PLAXUYU7PbJhhMeXgPvny8ivAcIeeowPkj) [Very Easy D.] [12 Marks]
-
-Chapter 2 & 3 - [Google File System and Map Framework](https://www.youtube.com/playlist?list=PLAXUYU7PbJhjoqdE-SGbBIl2jU-XBtZpP) [Related With Each Other] [Very Easy D.][13 Marks + 18 Marks]
-
-Chapter 4, 5 & 6 - [Searching and Indexing Big Data and Case Study Hadoop](https://www.youtube.com/playlist?list=PLAXUYU7PbJhiKA3sifxNrb4Lixt8ECeNK) [Most No Of Topics] [Very Easy D.] [11 Marks + 13 Marks + 13 Marks]
+YouTube Videos [Extremely Recommended] [All Very Easy]
+Chapter 1,2,3- Bio-Medical Instrumentation Chapter 1,2,3 [8 Marks + 8 Marks + 8 Marks]
+Chapter 4 - Bioelectric Signals Measurement and Recording System [16 Marks]
+Chapter 5 - Non- Invasive Diagnostic Instruments [16 Marks]
+Chapter 6 - Therapeutic Instruments [8 Marks]
+Chapter 7 & 8 - Biomedical Telemetry and Telemedicine & Electrical Safety of Medical Equipment [8 Marks + 8 Marks]

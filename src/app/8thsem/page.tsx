@@ -12,7 +12,7 @@ export default function Index() {
   const heroPost = allPosts;
 
   // @ts-ignore
-  // const filteredPost = allPosts.filter((post) => post.tag.includes("8th Sem"));
+  const filteredPost = allPosts.filter((post) => post.tag.includes("8thsem"));
 
   return (
     <main>
@@ -21,7 +21,7 @@ export default function Index() {
         {/* <Nav /> */}
         {/* <BreadCrumb /> */}
 
-        <MoreStories posts={heroPost} />
+        <MoreStories posts={filteredPost} />
       </Container>
     </main>
   );

@@ -1,43 +1,50 @@
 ---
-title: "Big Data Technologies"
-coverImage: "https://media.graphassets.com/V2n1JnhLT68tmXC0NHvQ"
-tag: "8thsem"
+title: "Organization and Management"
+coverImage: "https://media.graphassets.com/Nas9ff28TMVx1WZ7uuvM"
+tag: "7thsem"
 ogImage:
-  url: "https://media.graphassets.com/V2n1JnhLT68tmXC0NHvQ"
+  url: "https://media.graphassets.com/Nas9ff28TMVx1WZ7uuvM"
 difficultyLevel: "Very Very Easy"
-readTime: 2 Days
+readTime: "2 Days"
 ---
 
 <!-- @format -->
 
-## Tips & Tricks
+Total Days If Complete Newbie and Never Started, Don't Know Anything :- 4 Days. [1 day before exam month and 2.5 days of exam month]
+Goal - Score More than 55/80 Marks in final exam
 
-Total Days If Complete Newbie and Never Started, Don't Know Anything :- 2 Very Chill Days [0 Days Before Exam]
-Goal - Score Above 65/80 in the finals
+Chapter 1,2 [1st Day] [Start at Evening at 5 O Clock]
+Chapter 3,4,5,6,7,8 [2nd Day + Morning of 3rd Day] [5,6 Very Easy]
+Start form 3 O clock and at last 5 O clock the day before exam for the revision [3 times finish]
 
-As these topics are very easy to understand conceptual topics and don't have a lot of detail in them I so finish YouTube Videos and finish all the chapters in the 2nd day.
+To Pass with Ok marks is not hard if you just start in exam time to get good marks. I would recommend you to just watch all the YouTube Videos at least once before exam month and we have got you covered here completely here which will take you only one day.
 
-Again See The Book in the third day with the YouTube Videos again, You need to see what to write in the Exam .
-Revision Will Be Finished If You Wake Up At 5 till 11:30 [3 times]
+It is a easy subject not as easy like Big Data which is ridiculously easy but easy compared to the other subjects that you have already read. There are no numerical in this subject but only theory.
 
-This Is A Very Very Easy Subject To Study. This is the Easiest Subject Ever. It has around 7or 8 main question and 5 small questions which are very easy to understand and remember.
+Organization & Management Important Topics [Extremely Recommended]
+Notes in Question Answer form[Extremely Recommended]
+Pokhara University Notes [Recommended][Additional Clarity on Some Topics]
 
-After watching Videos see the photos 1,2,3 and then open the book and know what to write about each topic in detail.
-A very good way to revise before exam would be to play the YouTube Videos at 1.25X-1.5X speed and then watch notes.
+Important Question List [Recommended]
+Old Question Collection
+Chapter-wise Notes [Extremely Recommended]
+Chapter 1 - Introduction [32 or 40 Marks] []
 
-## Notes
+Chapter 2 - Personal Management [16 Marks]
 
-[Big Data Important Topics](https://drive.google.com/file/d/1uj2XRHquKSFjNwJJsfX3WLjPHsFdlfmW/view) [Important]
-All Old Question Listed Chapter Wise [Photo No 1](https://drive.google.com/file/d/1HHpbeusPbExFBqcH0jlZS5U1A8QKzaq6/view), [Photo No 2](https://drive.google.com/file/d/1Kh11kvs_ssYRvQ3e0cLucBXrymGs8OB_/view), [Photo No 3](https://drive.google.com/file/d/1tgUfRogydN7_kJNiFuKbBTCfYLbkTQT3/view) [Extremely Important]
+Chapter 3 - Motivation, Leadership and Entrepreneurship [16 Marks]
 
-[Big Data Technologies Book](https://drive.google.com/file/d/1uj2XRHquKSFjNwJJsfX3WLjPHsFdlfmW/view) [Extremely Recommended]
-[Old Question Collection](https://drive.google.com/file/d/1kwvWBGMwIvVUlGeapinb5991zbTI7l50/view)
-[Big Data Course](https://www.youtube.com/playlist?list=PLPIwNooIb9vi4f8tVkzLnr1tll6Pubbqh) [This is not exam focused but is good to understand what Big Data Is]
+Chapter 4 - Case Studies [This Chapter doesn't exist as a note] [See Slides] [8 Marks]
 
-## YouTube Videos [Extremely Recommended]
+Chapter 5 - Management Information System [8 or 16 Marks]
+Class Slides:
+Chapter 1 - Introduction
+Chapter 2 - Personal Management
+Chapter 3 - Motivation, Leadership and Entrepreneurship
+Chapter 4 - Case Studies
+Chapter 5 - Management Information System
 
-Chapter 1 - [Introduction to Big Data](https://www.youtube.com/playlist?list=PLAXUYU7PbJhhMeXgPvny8ivAcIeeowPkj) [Very Easy D.] [12 Marks]
-
-Chapter 2 & 3 - [Google File System and Map Framework](https://www.youtube.com/playlist?list=PLAXUYU7PbJhjoqdE-SGbBIl2jU-XBtZpP) [Related With Each Other] [Very Easy D.][13 Marks + 18 Marks]
-
-Chapter 4, 5 & 6 - [Searching and Indexing Big Data and Case Study Hadoop](https://www.youtube.com/playlist?list=PLAXUYU7PbJhiKA3sifxNrb4Lixt8ECeNK) [Most No Of Topics] [Very Easy D.] [11 Marks + 13 Marks + 13 Marks]
+Youtube:
+Chapter 1 - Introduction
+Chapter 2 - Personal Management
+Chapter 3 - Motivation, Leadership and Entrepreneurship

@@ -1,43 +1,42 @@
 ---
-title: "Big Data Technologies"
-coverImage: "https://media.graphassets.com/V2n1JnhLT68tmXC0NHvQ"
-tag: "8thsem"
+title: "Energy Environment and Society"
+coverImage: "https://media.graphassets.com/mqtWN0gnQtLSNINucwSI"
+tag: "7thsem"
 ogImage:
-  url: "https://media.graphassets.com/V2n1JnhLT68tmXC0NHvQ"
+  url: "https://media.graphassets.com/mqtWN0gnQtLSNINucwSI"
 difficultyLevel: "Very Very Easy"
-readTime: 2 Days
+readTime: "2 Days"
 ---
 
 <!-- @format -->
 
-## Tips & Tricks
+Total Days If complete Newbie and Never Started, Don't Know Anything :- 2.5 Days[0 Days Before Exam Month].
+Goal - Score More than 32/40 Marks in final exam
 
-Total Days If Complete Newbie and Never Started, Don't Know Anything :- 2 Very Chill Days [0 Days Before Exam]
-Goal - Score Above 65/80 in the finals
+Chapter 3 [1st Day Evening + 2nd Day][Start at Evening at 5 O Clock][Just Documentaries]
+Chapter 1,2,4,5[2nd Day+ 3rd Day][Finish Till 12 O Clock]
+Start form 5 O clock the day before exam for the revision [3 times finish]
 
-As these topics are very easy to understand conceptual topics and don't have a lot of detail in them I so finish YouTube Videos and finish all the chapters in the 2nd day.
+Wake up at 6 o clock on the exam day and then start revising it and aim to finish it until 10 and the second revision from 11 to 12 and then enjoy the exam.
 
-Again See The Book in the third day with the YouTube Videos again, You need to see what to write in the Exam .
-Revision Will Be Finished If You Wake Up At 5 till 11:30 [3 times]
+This is the second easiest subject of Engineering. Man it can't get easier than watching documentaries and going to give exams.
 
-This Is A Very Very Easy Subject To Study. This is the Easiest Subject Ever. It has around 7or 8 main question and 5 small questions which are very easy to understand and remember.
+First go to the YouTube Videos which I agree is quite many in number for chapter 3 but if you watch them and don't even see notes you will do good for the chapter. The only topic you should compulsory see in the book is page 21 for conversion of Biomass
 
-After watching Videos see the photos 1,2,3 and then open the book and know what to write about each topic in detail.
-A very good way to revise before exam would be to play the YouTube Videos at 1.25X-1.5X speed and then watch notes.
+All Chapter Notes [ Extremely Recommended]
+Old Question Collection
+Important Topics List [Extremely Important]
+List Of All Important Questions [Important]
 
-## Notes
-
-[Big Data Important Topics](https://drive.google.com/file/d/1uj2XRHquKSFjNwJJsfX3WLjPHsFdlfmW/view) [Important]
-All Old Question Listed Chapter Wise [Photo No 1](https://drive.google.com/file/d/1HHpbeusPbExFBqcH0jlZS5U1A8QKzaq6/view), [Photo No 2](https://drive.google.com/file/d/1Kh11kvs_ssYRvQ3e0cLucBXrymGs8OB_/view), [Photo No 3](https://drive.google.com/file/d/1tgUfRogydN7_kJNiFuKbBTCfYLbkTQT3/view) [Extremely Important]
-
-[Big Data Technologies Book](https://drive.google.com/file/d/1uj2XRHquKSFjNwJJsfX3WLjPHsFdlfmW/view) [Extremely Recommended]
-[Old Question Collection](https://drive.google.com/file/d/1kwvWBGMwIvVUlGeapinb5991zbTI7l50/view)
-[Big Data Course](https://www.youtube.com/playlist?list=PLPIwNooIb9vi4f8tVkzLnr1tll6Pubbqh) [This is not exam focused but is good to understand what Big Data Is]
-
-## YouTube Videos [Extremely Recommended]
-
-Chapter 1 - [Introduction to Big Data](https://www.youtube.com/playlist?list=PLAXUYU7PbJhhMeXgPvny8ivAcIeeowPkj) [Very Easy D.] [12 Marks]
-
-Chapter 2 & 3 - [Google File System and Map Framework](https://www.youtube.com/playlist?list=PLAXUYU7PbJhjoqdE-SGbBIl2jU-XBtZpP) [Related With Each Other] [Very Easy D.][13 Marks + 18 Marks]
-
-Chapter 4, 5 & 6 - [Searching and Indexing Big Data and Case Study Hadoop](https://www.youtube.com/playlist?list=PLAXUYU7PbJhiKA3sifxNrb4Lixt8ECeNK) [Most No Of Topics] [Very Easy D.] [11 Marks + 13 Marks + 13 Marks]
+YouTube Videos [Enjoy The Videos] [Extremely Recommended]
+Chapter 1- Technology and Development [Easy D.] [4 Marks]
+Chapter 2 - Energy Basics [Easy D.] [5 Marks]
+Chapter 3 - Renewable Energy Sources [Medium D.] [20 Marks]
+Chapter 4 - Environmental Impact of Energy sources [Easy D.] [4 Marks]
+Chapter 5 - Energy Storage [Easy D.] [4 Marks]
+Chapter Wise Notes [Recommended]
+Chapter 1 - Technology and Development [Easy Difficulty]
+Chapter 2 - Energy Basics [Easy D.] - Kyoto Protocol [Easy D.]
+Chapter 3 - Renewable Energy Sources [Medium D.] [See page 21 for conversion] - Fuel Cell - Solar Cell
+Chapter 4 - Environmental Impact of Energy sources [Easy D.]
+Chapter 5 - Energy Storage [Easy D.]

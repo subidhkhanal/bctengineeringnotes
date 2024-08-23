@@ -1,43 +1,51 @@
 ---
-title: "Big Data Technologies"
-coverImage: "https://media.graphassets.com/V2n1JnhLT68tmXC0NHvQ"
-tag: "8thsem"
+title: "Computer Organization and Architecture"
+coverImage: "https://media.graphassets.com/dBox41ZsRuiaFdkWlGQ7"
+tag: "5thsem"
 ogImage:
   url: "https://media.graphassets.com/V2n1JnhLT68tmXC0NHvQ"
-difficultyLevel: "Very Very Easy"
-readTime: 2 Days
+difficultyLevel: "Medium"
+readTime: "4 Days"
 ---
 
 <!-- @format -->
 
-## Tips & Tricks
+Total Days If complete Newbie and Never Started, Don't Know Anything :- 4.5 Days. [2 days before exam month and 2.5 days of exam month]
+Goal - Score More than 60 /80 Marks in final exam [This Subject is to obtain marks & increase percentage]
 
-Total Days If Complete Newbie and Never Started, Don't Know Anything :- 2 Very Chill Days [0 Days Before Exam]
-Goal - Score Above 65/80 in the finals
+Chapter 5 All[1 Day] [Finish Before Exam Month]
+Chapter 6 Mapping Technique [0.5 Days] [Finish Before Exam Month]
 
-As these topics are very easy to understand conceptual topics and don't have a lot of detail in them I so finish YouTube Videos and finish all the chapters in the 2nd day.
+At Exam Month
+Chapter 1,8 [1st Day Evening + 2nd Day Morning]
+Chapter 2,4,5 [2nd Day][Medium + Medium + Hard]
+Chapter 3,6,7 [3rd Day][ Hard + Medium + Easy]
 
-Again See The Book in the third day with the YouTube Videos again, You need to see what to write in the Exam .
-Revision Will Be Finished If You Wake Up At 5 till 11:30 [3 times]
+To guarantee to pass, starting at the exam month is not a good way to pass the exam as you always run into the probability that from the chapters you have studied hard questions or unexpected question might come.
 
-This Is A Very Very Easy Subject To Study. This is the Easiest Subject Ever. It has around 7or 8 main question and 5 small questions which are very easy to understand and remember.
+Concerning the theory the notes are enough and also for the Numerical of chapter 5 can be understood easily from the note and youtube videos.Notes by Hari Aryal will be enough for whole subjects
+Wake up at 5 o clock on the exam day and then start revising it and aim to finish it until 10 and the second revision from 11 to 12
 
-After watching Videos see the photos 1,2,3 and then open the book and know what to write about each topic in detail.
-A very good way to revise before exam would be to play the YouTube Videos at 1.25X-1.5X speed and then watch notes.
+The Way To Read Is With YouTube Videos and Notes and Revise is with notes and list of Important Topics and YouTube Videos at 1.25X Speed
+Notes:-
+All Chapter Notes [Hari Aryal Notes] [Buy In Pulchowk]
+ERC Notes [Extremely Recommended]
+Chapter 2 - Central Processing Unit
+Chapter 4 - Pipeline & Vector Processing
+Chapter 5 - Computer Arithmetic
+YouTube Videos [Extremely Recommended]
+Chapter 1 - Introduction [6 marks] [Easy D.]
 
-## Notes
+Chapter 2 - CPU [18 marks] [Medium D.]
 
-[Big Data Important Topics](https://drive.google.com/file/d/1uj2XRHquKSFjNwJJsfX3WLjPHsFdlfmW/view) [Important]
-All Old Question Listed Chapter Wise [Photo No 1](https://drive.google.com/file/d/1HHpbeusPbExFBqcH0jlZS5U1A8QKzaq6/view), [Photo No 2](https://drive.google.com/file/d/1Kh11kvs_ssYRvQ3e0cLucBXrymGs8OB_/view), [Photo No 3](https://drive.google.com/file/d/1tgUfRogydN7_kJNiFuKbBTCfYLbkTQT3/view) [Extremely Important]
+Chapter 3 - Control Unit [10 marks][Hard D.][Just for Background Knowledge read from book]
 
-[Big Data Technologies Book](https://drive.google.com/file/d/1uj2XRHquKSFjNwJJsfX3WLjPHsFdlfmW/view) [Extremely Recommended]
-[Old Question Collection](https://drive.google.com/file/d/1kwvWBGMwIvVUlGeapinb5991zbTI7l50/view)
-[Big Data Course](https://www.youtube.com/playlist?list=PLPIwNooIb9vi4f8tVkzLnr1tll6Pubbqh) [This is not exam focused but is good to understand what Big Data Is]
+Chapter 4 - Pipeline & Vector Processing [10 marks] [Medium D.]
 
-## YouTube Videos [Extremely Recommended]
+Chapter 5 - Computer Arithmetic [14 marks] [Hard D.] [All Parts of the chapter is covered including numericals]
 
-Chapter 1 - [Introduction to Big Data](https://www.youtube.com/playlist?list=PLAXUYU7PbJhhMeXgPvny8ivAcIeeowPkj) [Very Easy D.] [12 Marks]
+Chapter 6 - Memory System [8 marks] [Medium D.]
 
-Chapter 2 & 3 - [Google File System and Map Framework](https://www.youtube.com/playlist?list=PLAXUYU7PbJhjoqdE-SGbBIl2jU-XBtZpP) [Related With Each Other] [Very Easy D.][13 Marks + 18 Marks]
+Chapter 7 - Input-Output Organization [10 marks][Easy D.]
 
-Chapter 4, 5 & 6 - [Searching and Indexing Big Data and Case Study Hadoop](https://www.youtube.com/playlist?list=PLAXUYU7PbJhiKA3sifxNrb4Lixt8ECeNK) [Most No Of Topics] [Very Easy D.] [11 Marks + 13 Marks + 13 Marks]
+Chapter 8 - Multiprocessors [4 marks][Easy D.][Just for Background Knowledge read from book]

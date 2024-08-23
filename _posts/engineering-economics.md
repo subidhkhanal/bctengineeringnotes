@@ -1,43 +1,59 @@
 ---
-title: "Big Data Technologies"
-coverImage: "https://media.graphassets.com/V2n1JnhLT68tmXC0NHvQ"
-tag: "8thsem"
+title: "Engineering Economics"
+coverImage: "https://media.graphassets.com/zufOo6HhQT6pBRPpSLED"
+tag: "6thsem"
 ogImage:
-  url: "https://media.graphassets.com/V2n1JnhLT68tmXC0NHvQ"
-difficultyLevel: "Very Very Easy"
-readTime: 2 Days
+  url: "https://media.graphassets.com/zufOo6HhQT6pBRPpSLED"
+difficultyLevel: "Very Very Hard"
+readTime: "6 Days"
 ---
 
 <!-- @format -->
 
-## Tips & Tricks
+Syllabus
+Important Topics To Focus On
+Important Theory only
 
-Total Days If Complete Newbie and Never Started, Don't Know Anything :- 2 Very Chill Days [0 Days Before Exam]
-Goal - Score Above 65/80 in the finals
+1. Chapter 1 - Introduction to Engineering Economics
+2. Chapter 2 - Cost Concepts and Behavior
+3. Chapter 3 - Understanding Financial Statements
+   3.1 - Chapter 3 Remaining
+4. Chapter 4 - Comparative analysis of alternatives
+5. Chapter 5 - Replacement Analysis
+6. Chapter 6 - Risk Analysis
+7. Chapter 7 - Income Tax & Discounted Cash-flow models
+8. Chapter 8 - Project Risk Analysis
 
-As these topics are very easy to understand conceptual topics and don't have a lot of detail in them I so finish YouTube Videos and finish all the chapters in the 2nd day.
+Good Handwriting All Chapter Notes [Recommended]
+GL Book House In Writing
+Class Note Of 2075 BCT A
+All Chapter Notes
 
-Again See The Book in the third day with the YouTube Videos again, You need to see what to write in the Exam .
-Revision Will Be Finished If You Wake Up At 5 till 11:30 [3 times]
+Tutorial
+Old Question Collection
+Important Questions
+Tutorial 1: Chapter 2
+Tutorial 2: Chapter 3
+Tutorial 3: Chapter 4
+Tutorial 4: Chapter 7
+Tutorial 5: Chapter 8
+YouTube
+All Chapter Formulas
+Lectures
 
-This Is A Very Very Easy Subject To Study. This is the Easiest Subject Ever. It has around 7or 8 main question and 5 small questions which are very easy to understand and remember.
+1.  Lecture 1 - Introduction Into Economics
+2.  Lecture 2 - Financial Ratio
+3.  Lecture 3 - Time Value Of Money
+4.  Lecture 4 - Understanding Money and Its Management
+5.  Lecture 5 - Present Worth Analysis
+6.  Lecture 6 - Annual Equivalent Worth Analysis
+7.  Lecture 7 - Rate of Return Analysis
+8.  Lecture 8 - Depreciation
+9.  Lecture 9 - Project Risk and Uncertainty
+10. Lecture 10 - Benefit-Cost Analysis
 
-After watching Videos see the photos 1,2,3 and then open the book and know what to write about each topic in detail.
-A very good way to revise before exam would be to play the YouTube Videos at 1.25X-1.5X speed and then watch notes.
-
-## Notes
-
-[Big Data Important Topics](https://drive.google.com/file/d/1uj2XRHquKSFjNwJJsfX3WLjPHsFdlfmW/view) [Important]
-All Old Question Listed Chapter Wise [Photo No 1](https://drive.google.com/file/d/1HHpbeusPbExFBqcH0jlZS5U1A8QKzaq6/view), [Photo No 2](https://drive.google.com/file/d/1Kh11kvs_ssYRvQ3e0cLucBXrymGs8OB_/view), [Photo No 3](https://drive.google.com/file/d/1tgUfRogydN7_kJNiFuKbBTCfYLbkTQT3/view) [Extremely Important]
-
-[Big Data Technologies Book](https://drive.google.com/file/d/1uj2XRHquKSFjNwJJsfX3WLjPHsFdlfmW/view) [Extremely Recommended]
-[Old Question Collection](https://drive.google.com/file/d/1kwvWBGMwIvVUlGeapinb5991zbTI7l50/view)
-[Big Data Course](https://www.youtube.com/playlist?list=PLPIwNooIb9vi4f8tVkzLnr1tll6Pubbqh) [This is not exam focused but is good to understand what Big Data Is]
-
-## YouTube Videos [Extremely Recommended]
-
-Chapter 1 - [Introduction to Big Data](https://www.youtube.com/playlist?list=PLAXUYU7PbJhhMeXgPvny8ivAcIeeowPkj) [Very Easy D.] [12 Marks]
-
-Chapter 2 & 3 - [Google File System and Map Framework](https://www.youtube.com/playlist?list=PLAXUYU7PbJhjoqdE-SGbBIl2jU-XBtZpP) [Related With Each Other] [Very Easy D.][13 Marks + 18 Marks]
-
-Chapter 4, 5 & 6 - [Searching and Indexing Big Data and Case Study Hadoop](https://www.youtube.com/playlist?list=PLAXUYU7PbJhiKA3sifxNrb4Lixt8ECeNK) [Most No Of Topics] [Very Easy D.] [11 Marks + 13 Marks + 13 Marks]
+Further Reading Materials
+Principle Of Economic Analysis Book [Course Book]
+Engineering Economy
+Contemporary Engineering Economics Fourth Edition
+Schaum's outline of theory and problem
